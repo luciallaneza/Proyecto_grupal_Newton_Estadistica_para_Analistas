@@ -46,6 +46,7 @@ Finalmente, los datos se cargan en un DataFrame de Pandas, permitiendo realizar:
 
 ## EQUIPO 3:
 
+
 ## EQUIPO 4:
 
 📊 Proyecto Grupal de Estadística: Correlación y Regresión
