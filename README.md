@@ -38,9 +38,6 @@ Finalmente, los datos se cargan en un DataFrame de Pandas, permitiendo realizar:
 ✅ Visualizaciones gráficas.
 ✅ Muestreo de datos.
 
-python
-import pandas as pd
-
 --- 
 
 ## EQUIPO 1:
@@ -51,8 +48,9 @@ import pandas as pd
 
 ## EQUIPO 4:
 
-En nuestro equipo nos hemos encargado de investigar correlacion-regresion, (dirección e intensidad). Regresión lineal simple. Interpretación básica de R2 y error. 
-# Integrantes del equipo:
+📊 Proyecto Grupal de Estadística: Correlación y Regresión
+
+El núcleo de nuestro análisis consiste en entender cómo se relacionan el área de un país y su población. Para ello, utilizamos una muestra de 100 países elegidos de forma aleatoria, extraídos de una población total de 250 países.# Integrantes del equipo:
 
 - [Jose](https://github.com/josepuges)
 - [Lucía Llaneza](https://github.com/luciallaneza/luciallaneza)
