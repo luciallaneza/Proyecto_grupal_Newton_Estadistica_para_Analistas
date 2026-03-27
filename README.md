@@ -88,7 +88,7 @@ pip install  requests==2.33.0 numpy==2.4.3 pandas==3.0.1 matplotlib==3.10.8 seab
 La probabilidad mide el grado de incertidumbre de un evento. En el análisis de datos, permite estimar qué tan probable es obtener un determinado resultado, generalmente a partir de una pregunta o hipótesis planteada.
 
 ### Distribuciones
-Las distribuciones describen cómo se reparten los valores o probabilidades de una variable, mostrando qué resultados son 
+Las distribuciones describen cómo se reparten los valores o probabilidades de una variable, mostrando qué resultados son más o menos probables.
 
 - [Graciela](https://github.com/Graceila82)
 - [Krolina](https://github.com/KrolinaTF)
