@@ -59,22 +59,22 @@ El trabajo del **Grupo II** consiste en distinguir las diferentes gráficas y es
 
 El grupo II está formado por:
 
-- ***Sara Bailón*** https://github.com/Sara89359        
-- ***Arantxa Puig***  https://github.com/ArantxaPuig    
-- ***Fran Díaz***  https://github.com/FranDiazBusto    
-- ***Ágata Szlufcik***  https://github.com/AgataSzlufcik    
-- ***Juan G.***  https://github.com/xuangfm
-- ***Julia ***  https://github.com/Julia509-coll
--  
+- [***Sara Bailón***](https://github.com/Sara89359)            
+- [***Arantxa Puig***](https://github.com/ArantxaPuig)        
+- [***Fran Díaz***](https://github.com/FranDiazBusto)        
+- [***Ágata Szlufcik***](https://github.com/AgataSzlufcik)        
+- [***Juan G.***](https://github.com/xuangfm)    
+- [***Julia***](https://github.com/Julia509-coll)    
+  
 <h2><center>Librerias usadas</h2></center>
 Para éste proyecto se usaron las siguientes librerias:  
-- **requests** *para hacer peticiones a la API*      
-- **numpy** *para cáculos numéricos*      
-- **pandas** *para crear y manejar el DataFrame*      
-- **matplotlib** *para gráficas básicas*        
-- **seaborn** *para gráficas más visuales*        
-- **squlite3** *para poder crear y manejar bases de datos*      
-- **scipy** *para estadística y pruebas de hipótesis*        
+- **requests** *para hacer peticiones a la API*          
+- **numpy** *para cáculos numéricos*          
+- **pandas** *para crear y manejar el DataFrame*          
+- **matplotlib** *para gráficas básicas*            
+- **seaborn** *para gráficas más visuales*            
+- **squlite3** *para poder crear y manejar bases de datos*          
+- **scipy** *para estadística y pruebas de hipótesis*            
 *Éste archivo, fué probado y desarrollado con las siguientes versiones de las librerías, para evitar posibles errores aconsejamos la instalación de ellas.*
 pip install  requests==2.33.0 numpy==2.4.3 pandas==3.0.1 matplotlib==3.10.8 seaborn==0.13.2 scipy==1.17.1
 *Recomendamos crear un entorno virtual para la ejecución del ejercicio*
