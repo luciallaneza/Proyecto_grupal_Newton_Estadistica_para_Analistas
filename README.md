@@ -82,16 +82,22 @@ pip install  requests==2.33.0 numpy==2.4.3 pandas==3.0.1 matplotlib==3.10.8 seab
 ## EQUIPO 3:
 
 🎲 Probabilidad y distribuciones
-Probabilidad
+
+### Probabilidad
+
 La probabilidad mide el grado de incertidumbre de un evento. En el análisis de datos, permite estimar qué tan probable es obtener un determinado resultado, generalmente a partir de una pregunta o hipótesis planteada.
-Distribuciones
+
+### Distribuciones
 Las distribuciones describen cómo se reparten los valores o probabilidades de una variable, mostrando qué resultados son 
 
-- [Graciela]https://github.com/Graceila82 
-- [Krolina]https://github.com/KrolinaTF 
-- [Minina]https://github.com/MiniiNa 
-- [Alain]https://github.com/Alain-coder1 
-- [Francisco]https://github.com/ksu727096-maker
+- [Graciela](https://github.com/Graceila82)
+- [Krolina](https://github.com/KrolinaTF)
+- [Diana](https://github.com/MiniiNa)
+- [Alain](https://github.com/Alain-coder1)
+- [Oksana](https://github.com/ksu727096-maker)
+- [Francisco](https://github.com/fcoxjp-art)
+
+Usamos datos para evaluar hipótesis bajo incertidumbre y tomar decisiones basadas en probabilidad.
 
 ## EQUIPO 4:
 
